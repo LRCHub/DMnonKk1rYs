@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "おとぎ話",
+  "base_artist": "めいちゃん",
+  "createdAt": "2025-12-20T01:27:19.583872Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "おとぎ話",
+      "artist": "めいちゃん",
+      "has_synced": false,
+      "path": "select/pl_01_おとぎ話_めいちゃん.txt"
+    }
+  ]
+}
